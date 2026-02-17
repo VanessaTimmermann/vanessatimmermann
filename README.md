@@ -21,7 +21,7 @@ A showcase of how the use of differnet visualisation styles can improve the stor
 
 This is an analysis for a drinks manufacturer to evaluate the best and worst selling products and to inform future marketing strategy including potential withdrawal from markets.
 
-- [Best Service Identifier](#Logistics-Analysis)
+- [Best Service Identifier](https://github.com/VanessaTimmermann/Best-Service-Identifier)
 
 This project is for a small business and provides a dashboard that lets the user pick the best delivery company to ship orders with.
 
