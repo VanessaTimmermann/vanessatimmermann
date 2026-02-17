@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to my little space on the internet, where I show my data analytical skills. Feel free to have a browse!
+
+
 <!--
 **VanessaTimmermann/vanessatimmermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
